@@ -1,0 +1,5 @@
+{
+  "app": { "name": "sample-service", "port": 8080 },
+  "logging": { "level": "info" },
+  "database": { "host": "127.0.0.1", "pool_size": 5 }
+}
